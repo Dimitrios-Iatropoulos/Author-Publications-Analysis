@@ -6,10 +6,6 @@ This project utilizes the DBLP API to retrieve and analyze publication data for 
 ## Data Retrieval
 Data is retrieved from the DBLP API for the specified authors using pagination to handle large datasets. The publications are extracted and stored in a pandas DataFrame.
 
-## Authors Analyzed
-- Panayiotis Bozanis
-- Michail Salampasis
-
 ## Data Analysis and Visualization
 The analysis includes grouping and plotting publication data by year, type, and access type, as well as calculating and visualizing average page counts.
 
