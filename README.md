@@ -1,4 +1,4 @@
-# DBLP Author Publications Analysis
+# Author Publications Analysis
 
 ## Project Overview
 This project utilizes the DBLP API to retrieve and analyze publication data for Computer Science authors. It involves querying the API for specific authors and visualizing their publication data using various plots such as bar plots, scatter plots, line plots, and pie charts. The application also handles pagination and does not use any third-party packages.
